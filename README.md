@@ -1,5 +1,5 @@
 
-# Sakila Database Analysis – R & Git Assignment
+# Sakila Database Analysis – R & Git 
 
 This project contains SQL-style data analysis performed in **R** using the `data.table` package.  
 The assignment uses tables from the **MySQL Sakila database** and demonstrates data querying, joins,
@@ -129,4 +129,5 @@ con <- dbConnect(
 
 **Muhammad Abu Bakar**
 Data Analyst & Renewable Energy Data Science Enthusiast
+
 
